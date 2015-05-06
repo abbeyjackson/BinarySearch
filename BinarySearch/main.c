@@ -18,9 +18,9 @@ struct range binarySearch (int target, int numberArray[], int minIndex, int maxI
 int main(int argc, const char * argv[]) {
     
     int target;
-    target = 27
-;
-    int numberArray[10] = {3,6,9,11,11,11,14,16,22,24,24,27,31};
+    target = 24;
+    
+    int numberArray[13] = {3,6,9,11,11,11,14,16,22,24,24,27,31};
     int arraySize = sizeof(numberArray)/sizeof(int);
     
     struct range result = binarySearch(target, numberArray, 0, arraySize);

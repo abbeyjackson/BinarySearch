@@ -10,14 +10,14 @@
 	<string>BinarySearch</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>2DD2DF8980A9B60A3EA007F3F5C3D724B304708E</key>
+		<key>4A882BEA1E006F55BED9973A5DDDEEC2D66616CB</key>
 		<string>https://github.com/earthabbey/BinarySearch.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>BinarySearch.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>2DD2DF8980A9B60A3EA007F3F5C3D724B304708E</key>
+		<key>4A882BEA1E006F55BED9973A5DDDEEC2D66616CB</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -25,14 +25,14 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>2DD2DF8980A9B60A3EA007F3F5C3D724B304708E</string>
+	<string>4A882BEA1E006F55BED9973A5DDDEEC2D66616CB</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>2DD2DF8980A9B60A3EA007F3F5C3D724B304708E</string>
+			<string>4A882BEA1E006F55BED9973A5DDDEEC2D66616CB</string>
 			<key>IDESourceControlWCCName</key>
 			<string>BinarySearch</string>
 		</dict>
